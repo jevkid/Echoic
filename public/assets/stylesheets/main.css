@@ -3,19 +3,21 @@ html {
   margin: 0;
   width: 100%;
   overflow-x: hidden;
-  background-color: #262626;
+  background-color: #212121;
   font-family: 'Montserrat';
 }
 .body-container {
-  margin-top: 10%;
-  background-color: #262626;
+  padding-top: 5%;
+  background-color: #212121;
+  background-image: url('/assets/images/1.jpg');
+  background-repeat: no-repeat;
   text-align: center;
 }
 .body-container h1 {
   color: #FF4CA8;
 }
 .share-links {
-  margin: 50px auto;
+  margin: 30px auto;
 }
 .share-links a {
   padding: 10px;
@@ -31,15 +33,17 @@ html {
   margin: 30px 0;
 }
 .box-div a {
-  background-color: #ebebeb;
-  color: #262626;
+  background-color: #212121;
+  color: #FF4CA8;
   padding: 10px;
   text-decoration: none;
+  border: 1px solid #FF4CA8;
 }
 .box-div a:hover {
+  border: 1px solid #FF4CA8;
   background-color: #5f6060;
-  color: #FF4CA8;
   text-decoration: none;
+  color: #FF4CA8;
 }
 .tour-widget {
   margin: 50px auto;
