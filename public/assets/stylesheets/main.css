@@ -12,7 +12,7 @@ body {
 .body-container {
   padding: 4% 0;
   background-color: #212121;
-  background-image: url('/public/assets/images/1.jpg');
+  background-image: url('/Echoic/public/assets/images/1.jpg');
   background-repeat: no-repeat;
   text-align: center;
 }
