@@ -12,7 +12,7 @@ body {
 .body-container {
   padding: 4% 0;
   background-color: #212121;
-  background-image: url('/Echoic/public/assets/images/1.jpg');
+  background-image: url('/assets/images/1.jpg');
   background-repeat: no-repeat;
   text-align: center;
 }
@@ -33,7 +33,7 @@ body {
   color: #FF4CA8;
 }
 .title {
-  margin-top: 20px;
+  margin-top: 10%;
   color: #ebebeb;
 }
 .title h5 {
